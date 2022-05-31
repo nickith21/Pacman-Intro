@@ -22,6 +22,6 @@ Future improvements include:
 * Adding ghosts for Pacman to avoid
 * Adding a map for Pacman to move on
 
-# License
+## License
 
 MIT License
